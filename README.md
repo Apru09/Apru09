@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full stack web development and DSA 
 - 📫 How to reach me:
 - LINKEDIN: https://www.linkedin.com/in/prudhvi-shankar-aradhyula
-- INSTAGRAM: https://www.instagram.com/prudhviapru/
+- INSTAGRAM: https://www.instagram.com/akaprudhvishankar/
 - TWITTER: https://twitter.com/Aprudhvi47
 - MAIL: prudhvishankar.aradhyula@gmail.com
 
